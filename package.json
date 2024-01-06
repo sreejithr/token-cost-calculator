@@ -1,5 +1,6 @@
 {
   "name": "token-cost-ui",
+  "homepage": "https://sreejithr.github.io/token-cost-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
